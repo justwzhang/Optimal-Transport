@@ -1,0 +1,6 @@
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 7/code/build/CMakeFiles/INSTALL.dir
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 7/code/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 7/code/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 7/code/build/OT/CMakeFiles/OT.dir
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 7/code/build/OT/CMakeFiles/INSTALL.dir
+C:/Users/justw/Desktop/CS hw/CS 528 Graphics/HW 7/code/build/OT/CMakeFiles/ALL_BUILD.dir

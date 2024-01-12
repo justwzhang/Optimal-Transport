@@ -1,0 +1,51 @@
+﻿  omt_viewer.cpp
+C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 7\code\3rdparty\DartLib\core\Bmp/RgbImage.h(338,17): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 7\code\3rdparty\DartLib\core\Bmp/RgbImage.h(470,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 7\code\3rdparty\DartLib\core\Operator/Operator.h(785,33): warning C4244: 'argument': conversion from 'size_t' to 'const double', possible loss of data
+C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 7\code\3rdparty\DartLib\core\Operator/Operator.h(777,1): message : while compiling class template member function 'void DartLib::COperator<DartLib::COMTMesh>::_normalize(void)'
+C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 7\code\OT\src\omt_viewer.cpp(567,17): message : see the first reference to 'DartLib::COperator<DartLib::COMTMesh>::_normalize' in 'main'
+C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 7\code\OT\src\omt_viewer.cpp(566,24): message : see reference to class template instantiation 'DartLib::COperator<DartLib::COMTMesh>' being compiled
+C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 7\code\OT\include\PowerDiagramMesh.h(622,16): warning C4101: 'pV': unreferenced local variable
+C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 7\code\OT\include\PowerDiagramMesh.h(584,8): message : while compiling class template member function 'bool DartLib::CPowerDiagramDynamicMesh<V,E,F,H>::_Lawson_edge_swap(bool)'
+          with
+          [
+              V=DartLib::COMTVertex,
+              E=DartLib::COMTEdge,
+              F=DartLib::COMTFace,
+              H=DartLib::COMTHalfEdge
+          ]
+C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 7\code\OT\include\OptimalMassTransportationMesh.h(471,25): message : see the first reference to 'DartLib::CPowerDiagramDynamicMesh<V,E,F,H>::_Lawson_edge_swap' in 'DartLib::OT_Initialize'
+          with
+          [
+              V=DartLib::COMTVertex,
+              E=DartLib::COMTEdge,
+              F=DartLib::COMTFace,
+              H=DartLib::COMTHalfEdge
+          ]
+C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 7\code\OT\include\OptimalMassTransportationMesh.h(108,33): message : see reference to class template instantiation 'DartLib::CPowerDiagramDynamicMesh<V,E,F,H>' being compiled
+          with
+          [
+              V=DartLib::COMTVertex,
+              E=DartLib::COMTEdge,
+              F=DartLib::COMTFace,
+              H=DartLib::COMTHalfEdge
+          ]
+C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 7\code\OT\include\COMTMeshViewer.h(103,35): message : see reference to class template instantiation 'DartLib::COMTDynamicMesh<DartLib::COMTVertex,DartLib::COMTEdge,DartLib::COMTFace,DartLib::COMTHalfEdge>' being compiled
+C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 7\code\OT\include\PowerDiagramMesh.h(469,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 7\code\OT\include\PowerDiagramMesh.h(445,8): message : while compiling class template member function 'void DartLib::CPowerDiagramDynamicMesh<V,E,F,H>::_add_infinity_vertex(void)'
+          with
+          [
+              V=DartLib::COMTVertex,
+              E=DartLib::COMTEdge,
+              F=DartLib::COMTFace,
+              H=DartLib::COMTHalfEdge
+          ]
+C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 7\code\OT\include\OptimalMassTransportationMesh.h(455,28): message : see the first reference to 'DartLib::CPowerDiagramDynamicMesh<V,E,F,H>::_add_infinity_vertex' in 'DartLib::OT_Initialize'
+          with
+          [
+              V=DartLib::COMTVertex,
+              E=DartLib::COMTEdge,
+              F=DartLib::COMTFace,
+              H=DartLib::COMTHalfEdge
+          ]
+  OT.vcxproj -> C:\Users\justw\Desktop\CS hw\CS 528 Graphics\HW 7\code\build\OT\Debug\OT.exe
